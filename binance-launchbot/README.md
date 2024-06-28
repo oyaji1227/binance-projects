@@ -19,13 +19,3 @@ Simple launch bot for Binance Launchpad and other new coinpairs.
 3. Crie um arquivo .env na raiz do projeto com o mesmo conteúdo do arquivo .env.example
 4. Preencha os valores das variáveis no .env conforme instruído nos comentários do .env.example
 5. Execute o robô com npm start
-
-## Mais informações
-
-Assista ao tutorial do LaunchBot: https://youtube.com/live/tu9jZQLNvx8?feature=share
-
-Conheça meu curso de bot para criptomoedas: https://www.luiztools.com.br/curso-beholder
-
-Conheça meus livros: https://www.luiztools.com.br/meus-livros
-
-Me siga nas redes sociais: https://about.me/luiztools

@@ -21,12 +21,3 @@ Simple trader bot for Mercado Bitcoin (v4).
 5. ajuste o código para sua lógica de 'comprar barato'
 5. Execute o robô com npm start
 
-## Mais informações
-
-Para ler o tutorial da Mercado Bitcoin, acesse: https://www.luiztools.com.br/post/como-criar-robo-trader-para-mercado-bitcoin-v4-em-node-js
-
-Conheça meu curso de bot para criptomoedas: https://www.luiztools.com.br/curso-beholder
-
-Conheça meus livros: https://www.luiztools.com.br/meus-livros
-
-Me siga nas redes sociais: https://about.me/luiztools

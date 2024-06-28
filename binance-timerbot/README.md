@@ -20,15 +20,3 @@ Simple trader bot for Binance.
 4. Preencha os valores das variáveis no .env conforme instruído nos comentários do .env.example
 5. No caso da Mercado Bitcoin, ajuste a linha 32 do index.js para sua lógica de 'comprar barato'
 5. Execute o robô com npm start, leva alguns segundos para começar (CRAWLER_INTERVAL)
-
-## Mais informações
-
-Para ver a videoaula deste repositório, acesse: https://youtu.be/TFBgrrqRnOI
-
-Para ler o tutorial de Node Schedule acesse: https://www.luiztools.com.br/post/como-executar-tarefas-agendadas-com-node-schedule/
-
-Conheça meu curso de bot para criptomoedas: https://www.luiztools.com.br/curso-beholder
-
-Conheça meus livros: https://www.luiztools.com.br/meus-livros
-
-Me siga nas redes sociais: https://about.me/luiztools
