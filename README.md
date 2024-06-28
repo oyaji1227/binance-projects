@@ -1,4 +1,4 @@
-# nodejs-bitcoin
+# binance-bitcoin examples
 Simple trading bots for Binance Spot, Binance Futures, Binance Launchpad, BityPreço and Mercado Bitcoin.
 
 ## NOTICES
